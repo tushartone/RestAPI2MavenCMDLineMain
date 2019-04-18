@@ -1,0 +1,9 @@
+15:21:31.035 [main] INFO  MavenFramwwork.AddnDeletetheRequest - Host Information ishttp://localhost:3000
+15:25:08.946 [main] INFO  MavenFramwwork.AddnDeletetheRequest - Host Information ishttp://localhost:3000
+15:25:09.197 [main] INFO  MavenFramwwork.AddnDeletetheRequest - Rsponse is :{
+  "id": "22",
+  "title": "json-server",
+  "author": "typicode"
+}
+15:25:11.316 [main] INFO  MavenFramwwork.AddnDeletetheRequest - New created id is 22
+22:12:10.468 [main] INFO  MavenFramwwork.AddnDeletetheRequest - Host Information ishttp://localhost:3000
